@@ -13,4 +13,4 @@ fi
 mkdir -p $MODELS_DIR/checkpoints
 wget -nc --content-disposition \
   -P $MODELS_DIR/checkpoints \
-  "https://civitai.com/api/download/models/3389708?token=$CIVITAI_TOKEN"
+  "https://civitai.red/api/download/models/3389708?fileId=3279367?token=$CIVITAI_TOKEN"
